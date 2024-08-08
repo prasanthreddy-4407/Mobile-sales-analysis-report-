@@ -13,6 +13,6 @@ She would also like to know if factors like age, years at the company and income
 <br />
 
 Link to Database - https://public.tableau.com/views/GreenDestinationsHRAnalyticsDashboard_16578069061770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-![Capture](https://user-images.githubusercontent.com/40834093/179002755-c249d063-b50a-4d32-9901-3c5666871c1d.PNG)
+
 
 Link to Dataset - https://finch-groundhog-9245.squarespace.com/s/greendestination.csv
